@@ -8,7 +8,6 @@ Next JS has the ability to do client side render routing using its Link tags. Se
 Both of which are labeled in their respective links.
 
 To run this:
-
 -clone the repository
 -run <strong>npm install</strong>
 -run <strong>npm start</strong>
