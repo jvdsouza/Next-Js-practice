@@ -9,17 +9,12 @@ Both of which are labeled in their respective links.
 
 To run this:
 
-clone the repository
-
-run <strong>npm install</strong>
-
-run <strong>npm start</strong>
-
-go to the directory provided in your terminal
-
-open your networking tag in your browser using its developer tools
-
-click on the links on the pages to see what server side and client side rendering produces
+-clone the repository
+-run <strong>npm install</strong>
+-run <strong>npm start</strong>
+-go to the directory provided in your terminal
+-open your networking tag in your browser using its developer tools
+-click on the links on the pages to see what server side and client side rendering produces
 
 From this practice, it was found that:
 for Server side rendering:
